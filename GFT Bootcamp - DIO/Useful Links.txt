@@ -1,0 +1,116 @@
+# Paula's Useful Links
+## Quality Assurance
+
+
+
+#### Aline (GFT):
+
+https://www.guru99.com/software-testing.html
+
+[ISTQB® Certified Tester Syllabus Foundation Level](https://bcr.bstqb.org.br/docs/syllabus_ctfl_3.1br.pdf)
+
+
+
+
+
+#### Carolina (DIO):
+
+[CTFL](https://bstqb.org.br/b9/)
+
+Família SQuaRE
+
+https://martinfowler.com/
+
+https://medium.com/
+
+
+
+
+
+#### Jacque (Sofist):
+
+Erick Wendel
+
+
+
+
+
+#### Sofist (AT - TH):
+
+https://www.juliodelima.com.br
+
+https://www.amazon.com.br/Base-Conhecimento-em-Teste-Software/dp/8580630533
+
+https://www.amazon.com.br/Art-Software-Testing-Glenford-Myers/dp/0471043281
+
+https://www.udemy.com/course/teste-de-software-completo-fundamentos/
+
+https://iterasys.com.br/pt
+
+
+
+
+
+#### Code training:
+
+https://www.beecrowd.com.br/
+
+https://www.hackerrank.com/
+
+https://leetcode.com/
+
+
+
+
+
+
+#### Java:
+
+https://youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW
+
+
+
+
+
+#### General:
+
+https://blog.onedaytesting.com.br/
+
+https://www.notion.so/Guia-para-se-tornar-um-QA-e8859e0ddc214e3289aa40fd4f581d77
+
+https://lnkd.in/dsBVZXtz
+
+https://lnkd.in/d3VPdcxK Com Lameck Oliveira, com vídeos super completos
+
+https://lnkd.in/dhzfQxu9 Tem uma playlist completa do MARCELO NEVES
+
+http://aprendendotestar.com.br/
+
+https://web.digitalinnovation.one/articles/8-beneficios-de-testes-automatizados?back=/articles
+
+
+
+
+
+### Free courses
+
+- [Curso de Lógica de Programação - Gustavo Guanabara](https://youtu.be/8mei6uVttho)
+
+
+- [Playlist do Vinicius Pessoni "Comece no Teste de Software"](https://youtube.com/playlist?list=PLEqTHftpM91OQfx9XfmcXTjmypQTDB9qI)
+
+
+- [Playlist do Júlio de Lima "Testes de Software do Zero"](https://youtube.com/playlist?list=PLf8x7B3nFTl3EouPsBoqgbatKti9liVyj)
+
+
+- [Curso de Teste Gratuito e Com Certificado: "Aprendendo a Testar"](https://www.sympla.com.br/play/aprendendo-a-testar/1150323)
+
+
+- [Curso gratuito de introdução aos testes de software da Coursera](https://www.coursera.org/learn/intro-teste-de-software)
+
+
+- [Webinário gratuito do Júlio de Lima sobre Testes de Software para Iniciantes](https://vimeo.com/385484101/bcc4a71c10)
+
+
+- [Curso de API Rest do Júlio de Lima](https://www.youtube.com/playlist?list=PLf8x7B3nFTl17WeEVj405tHlstiq1kNBX)
+
